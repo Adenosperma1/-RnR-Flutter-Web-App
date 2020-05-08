@@ -1,17 +1,7 @@
-# loginagain
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # -RnR-Flutter-Web-App
+
+Flutter app with responsive layout for web and iphone
+set up with state control
+ready for database connection and fields to be layout in sections
+includes a file that describes the database structure
